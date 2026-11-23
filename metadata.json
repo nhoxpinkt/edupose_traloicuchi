@@ -1,0 +1,6 @@
+{
+  "name": "EduPose - Vui Học Cùng Cử Chỉ | Thầy Trần Hồng Quân",
+  "description": "Trò chơi học tập trả lời trắc nghiệm bằng cử chỉ camera AI cho học sinh. Tác giả: Thầy Trần Hồng Quân.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
